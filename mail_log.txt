@@ -1,0 +1,14 @@
+----- 2026-11-06 19:00:28 -----
+To: lukalikings46@gmail.com
+Subject: Security alert: failed login attempt on your LogiTrack Pro account
+Note: SMTP SEND FAILED: SMTP Error: Could not authenticate.
+
+Hi Lukali Kings,
+
+A failed login attempt was made on your account from IP ::1 at 2026-11-06 18:59:50.
+
+If this wasn't you, consider changing your password from Settings > Security.
+If it was you, you can safely ignore this message.
+
+— LogiTrack Pro
+
